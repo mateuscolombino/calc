@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mateu\\Desktop\\faculdade\\testes\\Calc3\\Calc3\\Calc3\\Calc3.csproj",
+      "projectUniqueName": "C:\\Users\\mateu\\Desktop\\faculdade\\testes\\Calc3\\Calc\\Calc3\\Calc3.csproj",
       "projectName": "Calc3",
-      "projectPath": "C:\\Users\\mateu\\Desktop\\faculdade\\testes\\Calc3\\Calc3\\Calc3\\Calc3.csproj",
+      "projectPath": "C:\\Users\\mateu\\Desktop\\faculdade\\testes\\Calc3\\Calc\\Calc3\\Calc3.csproj",
       "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mateu\\Desktop\\faculdade\\testes\\Calc3\\Calc3\\Calc3\\obj\\",
+      "outputPath": "C:\\Users\\mateu\\Desktop\\faculdade\\testes\\Calc3\\Calc\\Calc3\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config",

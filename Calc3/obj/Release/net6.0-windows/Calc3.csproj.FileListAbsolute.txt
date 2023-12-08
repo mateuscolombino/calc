@@ -1,0 +1,17 @@
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\bin\Release\net6.0-windows\Calc3.exe
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\bin\Release\net6.0-windows\Calc3.deps.json
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\bin\Release\net6.0-windows\Calc3.runtimeconfig.json
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\bin\Release\net6.0-windows\Calc3.dll
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\bin\Release\net6.0-windows\Calc3.pdb
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\obj\Release\net6.0-windows\Calc3.Calculadora.resources
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\obj\Release\net6.0-windows\Calc3.Properties.Resources.resources
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\obj\Release\net6.0-windows\Calc3.csproj.GenerateResource.cache
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\obj\Release\net6.0-windows\Calc3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\obj\Release\net6.0-windows\Calc3.AssemblyInfoInputs.cache
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\obj\Release\net6.0-windows\Calc3.AssemblyInfo.cs
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\obj\Release\net6.0-windows\Calc3.csproj.CoreCompileInputs.cache
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\obj\Release\net6.0-windows\Calc3.dll
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\obj\Release\net6.0-windows\refint\Calc3.dll
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\obj\Release\net6.0-windows\Calc3.pdb
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\obj\Release\net6.0-windows\Calc3.genruntimeconfig.cache
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\obj\Release\net6.0-windows\ref\Calc3.dll

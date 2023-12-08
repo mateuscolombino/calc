@@ -1,0 +1,5 @@
+C:\Users\mateu\Desktop\faculdade\testes\CalcFinal\Calc3.exe
+C:\Users\mateu\Desktop\faculdade\testes\CalcFinal\Calc3.dll
+C:\Users\mateu\Desktop\faculdade\testes\CalcFinal\Calc3.deps.json
+C:\Users\mateu\Desktop\faculdade\testes\CalcFinal\Calc3.runtimeconfig.json
+C:\Users\mateu\Desktop\faculdade\testes\CalcFinal\Calc3.pdb

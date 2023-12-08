@@ -1,0 +1,5 @@
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\bin\Release\net6.0-windows\app.publish\Calc3.exe
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\bin\Release\net6.0-windows\app.publish\Calc3.dll
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\bin\Release\net6.0-windows\app.publish\Calc3.deps.json
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\bin\Release\net6.0-windows\app.publish\Calc3.runtimeconfig.json
+C:\Users\mateu\Desktop\faculdade\testes\Calc3\Calc\Calc3\bin\Release\net6.0-windows\app.publish\Calc3.pdb
